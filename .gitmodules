@@ -1,3 +1,6 @@
 [submodule "terminal-emulator"] 
   path = "terminal-emulator" 
   url = https://github.com/Riddhish97/terminal-emulator.git
+[submodule "wedding-invitation"]
+	path = wedding-invitation
+	url = https://github.com/Riddhish97/indian-wedding-invitation.git
